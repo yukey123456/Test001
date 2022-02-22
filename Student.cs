@@ -11,7 +11,7 @@ namespace Lab01_02
 
         public Student()
         {
-
+///////llll33333333333333
         }
 
         public Student(string id, string fullName, float averageScore, string faculty)
