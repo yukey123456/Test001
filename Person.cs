@@ -11,7 +11,7 @@ namespace Lab01_02
 
         public Person()
         {
-
+            //Anh Nhan Dep Trai Nhat Lop
         }
 
         public Person(string id, string fullName)
